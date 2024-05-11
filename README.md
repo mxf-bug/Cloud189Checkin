@@ -1,5 +1,6 @@
 # Cloud189Checkin
-天翼网盘自动签到（随机容量) 和抽奖（三次，每次50M，共150M）获取空间  
+天翼网盘自动签到（随机容量) 和抽奖（三次，每次50M，共150M）获取空间
+我是从这找来的https://blog.csdn.net/weixin_39926193/article/details/119237808
 ## **目录**
 - [GitHub Action运行](#GitHubAction运行)
 - [本地运行](#本地运行)
